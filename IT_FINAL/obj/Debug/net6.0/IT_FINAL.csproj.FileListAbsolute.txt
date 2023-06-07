@@ -1,0 +1,15 @@
+E:\Итоговая работа\IT_FINAL\bin\Debug\net6.0\IT_FINAL.exe
+E:\Итоговая работа\IT_FINAL\bin\Debug\net6.0\IT_FINAL.deps.json
+E:\Итоговая работа\IT_FINAL\bin\Debug\net6.0\IT_FINAL.runtimeconfig.json
+E:\Итоговая работа\IT_FINAL\bin\Debug\net6.0\IT_FINAL.dll
+E:\Итоговая работа\IT_FINAL\bin\Debug\net6.0\IT_FINAL.pdb
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.csproj.AssemblyReference.cache
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.AssemblyInfoInputs.cache
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.AssemblyInfo.cs
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.csproj.CoreCompileInputs.cache
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.dll
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\refint\IT_FINAL.dll
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.pdb
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\IT_FINAL.genruntimeconfig.cache
+E:\Итоговая работа\IT_FINAL\obj\Debug\net6.0\ref\IT_FINAL.dll
